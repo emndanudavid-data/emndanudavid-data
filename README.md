@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Emily
 
-I'm a Data Science and Economics graduate focused on turning data into actionable insights using Python, SQL, and machine learning.
+I'm a Data Science and Economics and Statistics graduate focused on turning data into actionable insights using Python, SQL, and machine learning.
 
 ## 🧠 What I Do
 
